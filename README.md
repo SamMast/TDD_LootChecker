@@ -11,7 +11,7 @@
 
 ## App Functionality:
 
-- App to track wallet amount. Can 'withdraw' and 'deposit' funds into account.
+- App to track wallet amount (Check your Loot). Can 'withdraw' and 'deposit' funds into account.
 
 ### Testing:
 
