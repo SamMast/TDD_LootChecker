@@ -15,6 +15,6 @@
 
 ### Testing:
 
--Running testing with Jest
+- Running testing with Jest
 
 ![Image 1](testing.png)
