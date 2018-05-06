@@ -8,6 +8,8 @@
 
 - Uses Redux to manage state
 
+- Data stored with Cookies
+
 
 ## App Functionality:
 
