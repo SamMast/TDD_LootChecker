@@ -10,6 +10,8 @@
 
 - Data stored with Cookies
 
+- API calls powered by Coindesk, https://www.coindesk.com/prices
+
 
 ## App Functionality:
 
